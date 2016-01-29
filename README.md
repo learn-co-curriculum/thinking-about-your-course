@@ -6,4 +6,4 @@ But creating a course, writing an outline, and developing your syllabus for stud
 
 Here at Flatiron and Learn, we take students at the very beginning of their programming journey and train them to land jobs as developers. Our curriculum therefore is beginner friendly and never intimidating. Difficult, yes, but not intimidating and we put this guide together so that you can take your expertise and translate it into compelling lessons that are fun, engaging, and actually help students learn. In other words, you won't be writing glorified documentation but instead, lessons that tell a story, guide students through discovery, and challenge them. 
 
-<a href='https://learn.co/lessons/thinking-about-your-course' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/thinking-about-your-course' title='Your Course Outline'>Your Course Outline</a> on Learn.co and start learning to code for free.</p>
