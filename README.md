@@ -1,4 +1,4 @@
-## Your Course Outline 
+## Thinking About Your Course
 
 You’re an expert in your topic. You’ve worked professionally in it and might even have published books or articles about it as well. And that’s why we’re working with you to develop curriculum!
 
